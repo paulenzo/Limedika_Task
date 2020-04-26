@@ -1,0 +1,17 @@
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\obj\Debug\WinFormsApp.csprojAssemblyReference.cache
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\obj\Debug\WinFormsApp.View.MainView.resources
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\obj\Debug\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\bin\Debug\WinFormsApp.exe.config
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\bin\Debug\WinFormsApp.exe
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\bin\Debug\WinFormsApp.pdb
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\bin\Debug\Data.dll
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\bin\Debug\Database.dll
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\bin\Debug\Database.pdb
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\bin\Debug\Data.pdb
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\obj\Debug\WinFormsApp.csproj.CopyComplete
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\obj\Debug\WinFormsApp.exe
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\obj\Debug\WinFormsApp.pdb
+C:\Users\PAULENZO-PC\source\repos\WinFormsApp\obj\Debug\WinFormsApp.View.ClientsView.resources

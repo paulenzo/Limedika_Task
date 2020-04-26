@@ -1,0 +1,5 @@
+C:\Users\PAULENZO-PC\source\repos\Data\bin\Debug\Data.dll
+C:\Users\PAULENZO-PC\source\repos\Data\bin\Debug\Data.pdb
+C:\Users\PAULENZO-PC\source\repos\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\PAULENZO-PC\source\repos\Data\obj\Debug\Data.dll
+C:\Users\PAULENZO-PC\source\repos\Data\obj\Debug\Data.pdb

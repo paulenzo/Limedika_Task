@@ -1,0 +1,8 @@
+C:\Users\PAULENZO-PC\source\repos\Database\bin\Debug\Database.dll
+C:\Users\PAULENZO-PC\source\repos\Database\bin\Debug\Database.pdb
+C:\Users\PAULENZO-PC\source\repos\Database\bin\Debug\Data.dll
+C:\Users\PAULENZO-PC\source\repos\Database\bin\Debug\Data.pdb
+C:\Users\PAULENZO-PC\source\repos\Database\obj\Debug\DatabaseSQL.csprojAssemblyReference.cache
+C:\Users\PAULENZO-PC\source\repos\Database\obj\Debug\DatabaseSQL.csproj.CopyComplete
+C:\Users\PAULENZO-PC\source\repos\Database\obj\Debug\Database.dll
+C:\Users\PAULENZO-PC\source\repos\Database\obj\Debug\Database.pdb

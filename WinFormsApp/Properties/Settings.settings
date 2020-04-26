@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WinFormsApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ClientJsonFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Users\PAULENZO-PC\source\repos\WinFormsApp\klientai.json</Value>
+    </Setting>
+    <Setting Name="PostItUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.postit.lt/?term={0}&amp;key={1}</Value>
+    </Setting>
+    <Setting Name="PostItKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DORmqHvwL6J3L28WAEu5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
